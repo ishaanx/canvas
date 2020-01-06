@@ -46,7 +46,7 @@ Example:
 ## Integration with Hexo
 
 Put the canvas-nest.js in js folder
-Include the script tag in layout.ejs before the </body>
+Include the script tag in layout.ejs before the `</body>`
 
 ```html
 <script type="text/javascript" color="0,0,255" opacity='0.7' zIndex="-2" count="99" src="dist/canvas-nest.js"></script>
