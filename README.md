@@ -8,6 +8,7 @@ This results in less CPU usage and removes the jitter effect.
 + Script tag
 Insert the code below between <body> and </body>.
 
+```html
 <script src="js/canvas-nest.js"></script>
 Strongly suggest to insert before the tag </body>, as the following:
 
@@ -21,7 +22,7 @@ Strongly suggest to insert before the tag </body>, as the following:
 	<script src="dist/canvas-nest.js"></script>
 </body>
 </html>
-
+```
 
 ## Configuration
 
