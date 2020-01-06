@@ -10,8 +10,11 @@ Insert the code below between <body> and </body>.
 
 ```html
 <script src="js/canvas-nest.js"></script>
-Strongly suggest to insert before the tag </body>, as the following:
+```
 
+I strongly suggest to insert before the tag </body>, as the following:
+
+```html
 <html>
 <head>
 	...
