@@ -12,7 +12,7 @@ Insert the code below between <body> and </body>.
 <script src="js/canvas-nest.js"></script>
 ```
 
-I strongly suggest to insert before the tag </body>, as the following:
+I strongly suggest to insert before the tag `</body>`, as the following:
 
 ```html
 <html>
